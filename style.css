@@ -1,0 +1,15 @@
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(218, 209, 199);
+}
+
+main {
+  flex-grow: 1;
+}
+
+.object-cover {
+  width: 100%;
+  height: auto;
+}
